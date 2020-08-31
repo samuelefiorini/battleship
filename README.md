@@ -1,2 +1,2 @@
-# battleship
-Learning Go by implementing a simple battleship game
+# Battleship
+Learning Go by implementing a simple battleship game.
